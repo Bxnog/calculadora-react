@@ -1,5 +1,5 @@
 # Calculadora React
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/a514bf04-b427-48c1-a249-1898c29e826e" />
+[link para a calculadora](https://bxnog.github.io/calculadora-react/)
 
 
 Calculadora desenvolvida com React, TypeScript e Tailwind CSS para praticar lógica de programação e gerenciamento de estado.
